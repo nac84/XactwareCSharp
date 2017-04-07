@@ -11,7 +11,7 @@ namespace HelloWorld //This declares the namespace where my classes reside for t
     {      
         static void Main(string[] args) //This is the main method of the Program class.
         {
-            //This opens a CMD window and displays the text in quotes.
+            //This opens a CMD window and displays the text in quotes
             Console.WriteLine("I’m sorry, Dave. I’m afraid I can’t do that.");
             Console.ReadKey(); //This causes the window to wait for user to press any key before closing.
 
